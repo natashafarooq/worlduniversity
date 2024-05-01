@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.abc{
+    color:greenyellow;
+    text-align: center;
+}
+.layer{
+    height:20px;
+    width:25%;
+    border: 5px solid greenyellow;
+    display: block;
+}
